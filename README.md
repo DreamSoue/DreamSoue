@@ -1,8 +1,8 @@
-# react-native-web-linear-gradient
+# DreamSoue
 > React Native for Web implementation of react-native-linear-gradient
 
 ## Getting started
-`$ npm install react-native-web-linear-gradient --save`
+`$ npm install DreamSoue --save`
 
 Alias the package in your webpack config:
 
@@ -11,7 +11,7 @@ resolve: {
     alias: {
         'react-native': 'react-native-web',
         ...
-        'react-native-linear-gradient': 'react-native-web-linear-gradient',
+        'react-native-linear-gradient': 'DreamSoue',
     }
 }
 ```
@@ -22,7 +22,7 @@ See [react-native-linear-gradient](https://github.com/react-native-community/rea
 Note that `angleCenter` prop is not supported.
 
 ## Examples
-See the [storybook](https://react-native-web-community.github.io/react-native-web-linear-gradient/storybook).
+See the [storybook](https://react-native-web-community.github.io/DreamSoue/storybook).
 
 ## Contributing
 PRs are welcome!
